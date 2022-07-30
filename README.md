@@ -3,7 +3,7 @@ I am a software engineer based in Melbourne, Australia.
 
 ### 🌟 Main Skills
 - Java
-- Javascript
+- JavaScript
 - Node.js
 - AWS
 
