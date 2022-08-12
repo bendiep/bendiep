@@ -1,10 +1,12 @@
-## Hi, I'm Ben 👋
-I am a software engineer based in Melbourne, Australia. 
+<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ben</h1>
+<h3 align="center">I'm a software engineer based in Melbourne, Australia.</h3><br>
 
-### 🌟 Main Skills
+## 👨‍💻 Main Skills
 - Java
 - JavaScript
 - Node.js
+- React
 - AWS
 
 <!--
