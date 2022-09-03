@@ -5,6 +5,7 @@
 ## 👨‍💻 Main Skills
 - Java
 - JavaScript
+- TypeScript
 - Node.js
 - React
 - AWS
