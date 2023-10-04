@@ -4,10 +4,11 @@
 
 ## 👨‍💻 Main Skills
 - Java
-- JavaScript
-- TypeScript
-- Node.js
+- Python
+- JavaScript | TypeScript
+- Node.js | Next.js
 - React
+- Swift | SwiftUI
 - AWS
 
 <!--
