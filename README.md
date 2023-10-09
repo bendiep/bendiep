@@ -6,8 +6,7 @@
 - Java
 - Python
 - JavaScript | TypeScript
-- Node.js | Next.js
-- React
+- React | Node.js | Next.js
 - Swift | SwiftUI
 - AWS
 
