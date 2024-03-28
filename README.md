@@ -10,6 +10,8 @@
 - Swift | SwiftUI
 - AWS
 
+## 🤖 Stats
+![Ben Diep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bendiep&show_icons=true&theme=radical)
 <!--
 **bendiep/bendiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
