@@ -3,12 +3,13 @@
 <h3 align="center">I'm a Software Engineer based in Melbourne, Australia.</h3><br>
 
 ## 👨‍💻 Main Skills
-- Java
-- Python
-- JavaScript | TypeScript
-- React | Next | Node
-- Swift | SwiftUI
-- AWS
+[![Backend](https://skillicons.dev/icons?i=java,python,js,ts)](https://skillicons.dev)<br/>
+[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)<br/>
+[![Web Frameworks](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)<br/>
+[![Cloud](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+  
+## Exploring
+[![Exploring](https://skillicons.dev/icons?i=apple,swift)](https://skillicons.dev)
 
 ## 🤖 Stats
 [![Ben Diep's GitHub stats](https://github-readme-stats.vercel.app/api?username=bendiep&show_icons=true&theme=ambient_gradient)](https://github.com/bendiep/github-readme-stats)
