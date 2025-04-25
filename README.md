@@ -12,7 +12,7 @@
 [![Exploring](https://skillicons.dev/icons?i=apple,swift)](https://skillicons.dev)
 
 ## 🤖 Stats
-[![Ben Diep's GitHub stats](https://github-readme-stats.vercel.app/api?username=bendiep&show_icons=true&theme=ambient_gradient)](https://github.com/bendiep/github-readme-stats)
+[![Ben Diep's GitHub stats](https://github-readme-stats.vercel.app/api?username=bendiep&show_icons=true&theme=dark)](https://github.com/bendiep/github-readme-stats)
 
 ## 🧪 Things I've made
 - [OzPay101.com](https://ozpay101.com) – A clean, user-friendly Aussie pay calculator website 💰
