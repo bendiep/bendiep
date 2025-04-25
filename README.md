@@ -8,11 +8,15 @@
 [![Web Frameworks](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)<br>
 [![Cloud](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
   
-## Exploring
+## 🔭 Exploring
 [![Exploring](https://skillicons.dev/icons?i=apple,swift)](https://skillicons.dev)
 
 ## 🤖 Stats
 [![Ben Diep's GitHub stats](https://github-readme-stats.vercel.app/api?username=bendiep&show_icons=true&theme=ambient_gradient)](https://github.com/bendiep/github-readme-stats)
+
+## 🧪 Things I've made
+- [ozpay101.com](https://ozpay101.com) – A clean, user-friendly Aussie pay calculator 💰
+- [remind-me-later](https://www.npmjs.com/package/remind-me-later) – Scans your code for TODOs and FIXMEs so you don’t forget them 🧠 
 
 <!--
 **bendiep/bendiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
