@@ -17,9 +17,9 @@
 ## 🧪 Things I've made
 - [OzPay101.com](https://ozpay101.com) – A clean, user-friendly Aussie pay calculator website 💰
 - [Remind Me Later](https://www.npmjs.com/package/remind-me-later) – NPM tool that scans your code for TODO/FIXME comments so you don’t forget them 🧠 
-- [Melbourne Trains](https://bendiep.com/blog/i-built-a-tidbyt-app-melbourne-trains) – Real-time Melbourne Train departures on Tidbyt 🚆
-- [Melbourne Buses](https://bendiep.com/blog/now-on-tidbyt-melbourne-buses-and-trams) – Real-time Melbourne Bus departures on Tidbyt 🚌 
 - [Melbourne Trams](https://bendiep.com/blog/now-on-tidbyt-melbourne-buses-and-trams) – Real-time Melbourne Tram departures on Tidbyt 🚊
+- [Melbourne Buses](https://bendiep.com/blog/now-on-tidbyt-melbourne-buses-and-trams) – Real-time Melbourne Bus departures on Tidbyt 🚌 
+- [Melbourne Trains](https://bendiep.com/blog/i-built-a-tidbyt-app-melbourne-trains) – Real-time Melbourne Train departures on Tidbyt 🚆
 
 
 <!--
