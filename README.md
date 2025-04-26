@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ben</h1>
 <h3 align="center">I'm a Software Engineer based in Melbourne, Australia.</h3>
 
-## 👨‍💻 Main Skills
+## 🧑🏻‍💻 Main Skills
 [![Backend](https://skillicons.dev/icons?i=java,python,js,ts)](https://skillicons.dev)<br>
 [![Frontend](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)<br>
 [![Web Frameworks](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)<br>
