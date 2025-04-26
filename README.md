@@ -1,4 +1,4 @@
-<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+<div align="center"><img src="https://i.imgur.com/iXuL1HG.png" width="50%"/></div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ben</h1>
 <h3 align="center">I'm a Software Engineer based in Melbourne, Australia.</h3>
 
@@ -16,7 +16,7 @@
 
 ## 🧪 Things I've made
 - [OzPay101.com](https://ozpay101.com) &rarr; A clean, user-friendly Aussie pay calculator website 💰
-- [Remind Me Later](https://www.npmjs.com/package/remind-me-later) &rarr; NPM tool that scans your code for TODO/FIXME comments so you don’t forget them 🧠 
+- [Remind Me Later](https://www.npmjs.com/package/remind-me-later) &rarr; An npm reminder tool for your forgotten TODOs and FIXMEs 🧠 
 - [Melbourne Trams](https://bendiep.com/blog/now-on-tidbyt-melbourne-buses-and-trams) &rarr; Real-time Melbourne Tram departures on Tidbyt 🚊
 - [Melbourne Buses](https://bendiep.com/blog/now-on-tidbyt-melbourne-buses-and-trams) &rarr; Real-time Melbourne Bus departures on Tidbyt 🚌 
 - [Melbourne Trains](https://bendiep.com/blog/i-built-a-tidbyt-app-melbourne-trains) &rarr; Real-time Melbourne Train departures on Tidbyt 🚆
