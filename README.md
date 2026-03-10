@@ -1,14 +1,27 @@
-<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+<div align="center"><img src="https://i.imgur.com/iXuL1HG.png" width="50%"/></div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ben</h1>
-<h3 align="center">I'm a software engineer based in Melbourne, Australia.</h3><br>
+<h3 align="center">I'm a Software Engineer based in Melbourne, Australia.</h3>
 
-## 👨‍💻 Main Skills
-- Java
-- JavaScript
-- TypeScript
-- Node.js
-- React
-- AWS
+## 🧑🏻‍💻 Main Skills
+[![Backend](https://skillicons.dev/icons?i=java,python,js,ts)](https://skillicons.dev)<br>
+[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)<br>
+[![Web Frameworks](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)<br>
+[![Cloud](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+  
+## 👀 Exploring
+[![Exploring](https://skillicons.dev/icons?i=apple,swift)](https://skillicons.dev)
+
+## 🤖 Stats
+[![Ben Diep's GitHub stats](https://github-readme-stats.vercel.app/api?username=bendiep&show_icons=true&theme=dark)](https://github.com/bendiep/github-readme-stats)<br>
+[![Ben Diep's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bendiep&layout=compact&theme=dark&langs_count=6)](https://github.com/bendiep/github-readme-stats)
+
+## 🧪 Things I've made
+- [OzPay101.com](https://ozpay101.com) &rarr; A clean, user-friendly Aussie pay calculator website 💰
+- [Remind Me Later](https://www.npmjs.com/package/remind-me-later) &rarr; An npm reminder tool for your forgotten TODO/FIXME comments 🧠 
+- [Melbourne Trams](https://bendiep.com/blog/now-on-tidbyt-melbourne-buses-and-trams) &rarr; Real-time Melbourne Tram departures on Tidbyt 🚊
+- [Melbourne Buses](https://bendiep.com/blog/now-on-tidbyt-melbourne-buses-and-trams) &rarr; Real-time Melbourne Bus departures on Tidbyt 🚌 
+- [Melbourne Trains](https://bendiep.com/blog/i-built-a-tidbyt-app-melbourne-trains) &rarr; Real-time Melbourne Train departures on Tidbyt 🚆
+
 
 <!--
 **bendiep/bendiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
