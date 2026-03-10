@@ -15,7 +15,7 @@
 
 ## 🤖 Stats
 
-![Stats](./profile/stats.svg)
+![Stats](./profile/stats.svg)<br>
 ![Languages](./profile/languages.svg)
 
 ## 🧪 Things I've made
