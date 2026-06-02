@@ -1,6 +1,5 @@
-<div align="center"><img src="https://i.imgur.com/iXuL1HG.png" width="50%"/></div>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ben</h1>
-<h3 align="center">I'm a Software Engineer based in Melbourne, Australia.</h3>
+<h3 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ben</h1>
+<h4 align="center">I'm a Software Engineer based in Melbourne, Australia.</h3>
 
 ## 🧑🏻‍💻 Main Skills
 
