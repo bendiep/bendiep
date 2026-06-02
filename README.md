@@ -4,14 +4,19 @@
 
 ## 🧑🏻‍💻 Main Skills
 
-[![Backend](https://skillicons.dev/icons?i=java,python,js,ts)](https://skillicons.dev)<br>
-[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)<br>
-[![Web Frameworks](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)<br>
-[![Cloud](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=ts,js,python,java)](https://skillicons.dev)<br>
+[![Frontend](https://skillicons.dev/icons?i=tailwind,html,css)](https://skillicons.dev)<br>
+[![Framework](https://skillicons.dev/icons?i=nextjs,react,flask,spring)](https://skillicons.dev)<br>
+[![Automation](https://skillicons.dev/icons?i=bash,ansible,docker)](https://skillicons.dev)<br>
+[![Cloud](https://skillicons.dev/icons?i=vercel,aws)](https://skillicons.dev)
 
-## 👀 Exploring
-
-[![Exploring](https://skillicons.dev/icons?i=apple,swift)](https://skillicons.dev)
+## 🛠️ Worked With
+[![Backend](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)<br>
+[![Framework](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)<br>
+[![Test](https://skillicons.dev/icons?i=jest,cypress,gherkin)](https://skillicons.dev)<br>
+[![](https://skillicons.dev/icons?i=terraform,kubernetes,openshift)](https://skillicons.dev)<br>
+[![Database](https://skillicons.dev/icons?i=mysql,sqlite,postgres,dynamodb)](https://skillicons.dev)<br>
+[![Messaging & Caching](https://skillicons.dev/icons?i=kafka,rabbitmq,redis)](https://skillicons.dev)<br>
 
 ## 🤖 Stats
 
