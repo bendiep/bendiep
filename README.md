@@ -1,27 +1,38 @@
 <h3 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ben</h1>
 <h4 align="center">I'm a Software Engineer based in Melbourne, Australia.</h3>
 
-## 🧑🏻‍💻 Main Skills
+<table align="left">
+  <tr>
+    <td width="300" valign="top">
+      <h2>🧑🏻‍💻 Main Skills</h2>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,python,java" alt="Backend"></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind,html,css" alt="Frontend"></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,flask,spring" alt="Framework"></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ansible,docker" alt="Automation"></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vercel,aws" alt="Cloud"></a>
+    </td>
+  </tr>
+</table>
 
-[![Backend](https://skillicons.dev/icons?i=ts,js,python,java)](https://skillicons.dev)<br>
-[![Frontend](https://skillicons.dev/icons?i=tailwind,html,css)](https://skillicons.dev)<br>
-[![Framework](https://skillicons.dev/icons?i=nextjs,react,flask,spring)](https://skillicons.dev)<br>
-[![Automation](https://skillicons.dev/icons?i=ansible,docker)](https://skillicons.dev)<br>
-[![Cloud](https://skillicons.dev/icons?i=vercel,aws)](https://skillicons.dev)
+<table align="left">
+  <tr>
+    <td width="300" valign="top">
+      <h2>🛠️ Worked With</h2>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet" alt="Backend"></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gherkin,cypress" alt="Test"></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=terraform,kubernetes,openshift" alt="Infrastructure"></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=supabase,mysql,sqlite,postgres,dynamodb" alt="Database"></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kafka,rabbitmq,redis" alt="Messaging &amp; Caching"></a>
+    </td>
+  </tr>
+</table>
 
-## 🛠️ Worked With
-
-[![Backend](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)<br>
-[![Framework](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)<br>
-[![Test](https://skillicons.dev/icons?i=jest,cypress,gherkin)](https://skillicons.dev)<br>
-[![Infrastructure](https://skillicons.dev/icons?i=terraform,kubernetes,openshift)](https://skillicons.dev)<br>
-[![Database](https://skillicons.dev/icons?i=supabase,mysql,sqlite,postgres,dynamodb)](https://skillicons.dev)<br>
-[![Messaging & Caching](https://skillicons.dev/icons?i=kafka,rabbitmq,redis)](https://skillicons.dev)<br>
+<br clear="all">
 
 ## 🤖 Stats
 
-![Stats](./profile/stats.svg)<br>
-![Languages](./profile/languages.svg)
+<a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=bendiep&amp;show_icons=true&amp;theme=dark" alt="Stats" height="165"></a>
+<a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bendiep&amp;layout=compact&amp;theme=dark&amp;langs_count=8" alt="Languages" height="165"></a><br>
 
 ## 🧪 Things I've made
 
