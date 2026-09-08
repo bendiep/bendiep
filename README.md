@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2EA0FF&center=true&vCenter=true&width=800&height=60&lines=Hi+there%2C+I'm+Ben+%F0%9F%91%8B;Software+Engineer+~+Melbourne%2C+Australia;I+like+to+build+things" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/bendiep)
-[![Website](https://img.shields.io/badge/Website-0F766E?style=for-the-badge&logoColor=white)](https://bendiep.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIgOGg0djE0SDJWOFptMi02YTIgMiAwIDEgMSAwIDQgMiAyIDAgMCAxIDAtNFptNSA2aDR2MmMxLTEuNSAyLjQtMi41IDQuNS0yLjUgMy40IDAgNC41IDIuMiA0LjUgNi4yVjIyaC00di03LjJjMC0xLjctLjEtMy4zLTItMy4zcy0zIDEuNC0zIDMuM1YyMkg5VjhaIi8+PC9zdmc%2B&logoColor=white)](https://www.linkedin.com/in/bendiep)
+[![Website](https://img.shields.io/badge/Website-0F766E?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiLz48cGF0aCBkPSJNMyAxMmgxOE0xMiAzYzMgMi40IDQuNSA1LjQgNC41IDlzLTEuNSA2LjYtNC41IDljLTMtMi40LTQuNS01LjQtNC41LTlTOSA1LjQgMTIgM1oiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiLz48L3N2Zz4%3D&logoColor=white)](https://bendiep.com)
 
 </div>
 
