@@ -33,7 +33,8 @@
       <h2>🛠️ Worked with</h2>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,ansible,terraform,kubernetes" alt="Automation & Infrastructure"></a><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,dynamodb" alt="Database"></a><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kafka,rabbitmq,redis" alt="Messaging &amp; Caching"></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=redis" alt="Caching"></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kafka,rabbitmq" alt="Messaging"></a>
     </td>
   </tr>
 </table>
