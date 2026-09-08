@@ -18,7 +18,7 @@
 <table align="left" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="320" valign="top" style="border: none;">
-      <h2>🧑🏻‍💻 Main Skills</h2>
+      <h2>🧑🏻‍💻 Main skills</h2>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,python,java" alt="Backend"></a><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind,html,css" alt="Frontend"></a><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,flask,spring" alt="Framework"></a><br>
@@ -31,7 +31,7 @@
 <table align="left" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="320" valign="top" style="border: none;">
-      <h2>🛠️ Worked With</h2>
+      <h2>🛠️ Worked with</h2>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=terraform,kubernetes" alt="Infrastructure"></a><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,dynamodb" alt="Database"></a><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kafka,rabbitmq,redis" alt="Messaging &amp; Caching"></a>
