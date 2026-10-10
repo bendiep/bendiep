@@ -45,7 +45,7 @@
 
 <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=bendiep&amp;show_icons=true&amp;theme=dark" alt="Stats" height="165"></a>
 <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bendiep&amp;layout=compact&amp;theme=dark&amp;langs_count=8" alt="Languages" height="165"></a><br>
-![Profile Views](https://komarev.com/ghpvc/?username=bendiep&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2Fbendiep&leftColor=151515&rightColor=7C3AED&type=unique&label=Views&style=none)
 
 <!--
 **bendiep/bendiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
