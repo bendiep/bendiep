@@ -11,6 +11,7 @@
 - [OzPay101.com](https://ozpay101.com) &rarr; A clean, user-friendly Aussie pay calculator website 💰
 - [Google Rank Finder](https://github.com/bendiep/google-rank-finder) &rarr; A CLI tool to check Google search rankings 🔍
 - [Remind Me Later](https://www.npmjs.com/package/remind-me-later) &rarr; An npm reminder tool for your forgotten TODO/FIXME comments 🧠
+- [Better Orbi](https://github.com/bendiep/better-orbi) &rarr; A Chrome extension that refreshes your Orbi router's admin interface 📡
 - [Melbourne Trams](https://bendiep.com/blog/now-on-tidbyt-melbourne-buses-and-trams) &rarr; Real-time Melbourne Tram departures on Tidbyt 🚊
 - [Melbourne Buses](https://bendiep.com/blog/now-on-tidbyt-melbourne-buses-and-trams) &rarr; Real-time Melbourne Bus departures on Tidbyt 🚌
 - [Melbourne Trains](https://bendiep.com/blog/i-built-a-tidbyt-app-melbourne-trains) &rarr; Real-time Melbourne Train departures on Tidbyt 🚆
